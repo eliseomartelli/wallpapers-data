@@ -1,0 +1,25 @@
+{
+	"mole": {
+		"title": "Mole",
+		"location": "Turin, Italy",
+		"preview": "/mole/laptop.jpg",
+		"urls": [
+			{
+				"name": "iPhone",
+				"url": "/mole/phone.jpg"
+			},
+			{
+				"name": "iPad",
+				"url": "/mole/tablet.jpg"
+			},
+			{
+				"name": "Laptop",
+				"url": "/mole/laptop.jpg"
+			},
+			{
+				"name": "16:9",
+				"url": "/mole/6k.jpg"
+			}
+		]
+	}
+}
