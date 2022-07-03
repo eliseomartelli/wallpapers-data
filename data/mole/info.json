@@ -1,23 +1,23 @@
 {
 	"title": "Mole",
 	"location": "Turin, Italy",
-	"preview": "/mole/laptop.jpg",
+	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/laptop.jpg",
 	"urls": [
 		{
 			"name": "iPhone",
-			"url": "/mole/phone.jpg"
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/phone.jpg"
 		},
 		{
 			"name": "iPad",
-			"url": "/mole/tablet.jpg"
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/tablet.jpg"
 		},
 		{
 			"name": "Laptop",
-			"url": "/mole/laptop.jpg"
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/laptop.jpg"
 		},
 		{
 			"name": "16:9",
-			"url": "/mole/6k.jpg"
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/6k.jpg"
 		}
 	]
 }
