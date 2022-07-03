@@ -1,0 +1,23 @@
+{
+	"title": "Silhouette of a Tree",
+	"location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
+	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_preview.jpg",
+	"urls": [
+		{
+			"name": "iPhone",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_iphone.jpg"
+		},
+		{
+			"name": "iPad",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_ipad.jpg"
+		},
+		{
+			"name": "Laptop",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_laptop.jpg"
+		},
+		{
+			"name": "16:9",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_16-9.jpg"
+		}
+	]
+}
