@@ -1,13 +1,15 @@
 [
 	{
+		"reference": "albero",
 		"title": "Silhouette of a Tree",
 		"location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
 		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_preview.jpg"
 	},
 	{
-		"title": "Silhouette of a Tree",
-		"location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_preview.jpg"
+		"reference": "mole",
+		"title": "Mole",
+		"location": "Turin, Italy",
+		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/preview.jpg"
 	}
 
 ]
