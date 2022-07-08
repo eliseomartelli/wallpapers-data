@@ -1,0 +1,12 @@
+{
+	"title": "Hand",
+	"location": "Somewhere in the universe",
+	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/hand/preview.jpg",
+	"urls": [
+		{
+			"name": "Phone",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/hand/mano_iPhone.jpg"
+		}
+	]
+}
+

@@ -1,5 +1,11 @@
 [
 	{
+		"reference": "hand",
+		"title": "Hand",
+		"location": "Somewhere in the universe",
+		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/hand/preview.jpg"
+	},
+	{
 		"reference": "albero",
 		"title": "Silhouette of a Tree",
 		"location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
