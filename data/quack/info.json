@@ -1,0 +1,27 @@
+{
+	"title": "Quack",
+	"location": "Avigliana, Italy",
+	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/preview.jpg",
+	"urls": [
+		{
+			"name": "iPhone",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/phone.jpg"
+		},
+		{
+			"name": "iPad",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/tablet.jpg"
+		},
+		{
+			"name": "Laptop",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/laptop.jpg"
+		},
+		{
+			"name": "16:9",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/16-9.jpg"
+		},
+		{
+			"name": "Original",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/original.jpg"
+		}
+	]
+}

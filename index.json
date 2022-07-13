@@ -1,5 +1,11 @@
 [
 	{
+		"reference": "quack",
+		"title": "Quack",
+		"location": "Avigliana, Italy",
+		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/preview.jpg"
+	},
+	{
 		"reference": "hand",
 		"title": "Hand",
 		"location": "Somewhere in the universe",
@@ -17,5 +23,4 @@
 		"location": "Turin, Italy",
 		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/preview.jpg"
 	}
-
 ]
