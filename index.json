@@ -1,5 +1,11 @@
 [
 	{
+		"reference": "spacey",
+		"title": "Spacey",
+		"location": "Lol, on my Figma",
+		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/spacey/preview.jpg"
+	},
+	{
 		"reference": "quack",
 		"title": "Quack",
 		"location": "Avigliana, Italy",

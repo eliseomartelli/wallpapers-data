@@ -1,0 +1,11 @@
+{
+	"title": "Spacey",
+	"location": "Lol, on my Figma",
+	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/spacey/preview.jpg",
+	"urls": [
+		{
+			"name": "iPhone",
+			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/spacey/phone.jpg"
+		}
+	]
+}
