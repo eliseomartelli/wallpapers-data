@@ -1,32 +1,38 @@
 [
-	{
-		"reference": "spacey",
-		"title": "Spacey",
-		"location": "Lol, on my Figma",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/spacey/preview.jpg"
-	},
-	{
-		"reference": "quack",
-		"title": "Quack",
-		"location": "Avigliana, Italy",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/preview.jpg"
-	},
-	{
-		"reference": "hand",
-		"title": "Hand",
-		"location": "Somewhere in the universe",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/hand/preview.jpg"
-	},
-	{
-		"reference": "albero",
-		"title": "Silhouette of a Tree",
-		"location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_preview.jpg"
-	},
-	{
-		"reference": "mole",
-		"title": "Mole",
-		"location": "Turin, Italy",
-		"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/preview.jpg"
-	}
+  {
+    "reference": "spacey",
+    "title": "Spacey",
+    "location": "Lol, on my Figma",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/spacey/preview.jpg"
+  },
+  {
+    "reference": "quack",
+    "title": "Quack",
+    "location": "Avigliana, Italy",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/quack/preview.jpg"
+  },
+  {
+    "reference": "hand",
+    "title": "Hand",
+    "location": "Somewhere in the universe",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/hand/preview.jpg"
+  },
+  {
+    "reference": "albero",
+    "title": "Silhouette of a Tree",
+    "location": "Abbazia di San Giovanni in Venere, Fossacesia, Italy",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/albero/albero_preview.jpg"
+  },
+  {
+    "reference": "mole",
+    "title": "Mole",
+    "location": "Turin, Italy",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/mole/preview.jpg"
+  },
+  {
+    "reference": "cinemamassimo",
+    "title": "Cinema Massimo",
+    "location": "Turin, Italy",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/cinemamassimo/preview.jpg"
+  }
 ]
