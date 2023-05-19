@@ -1,0 +1,11 @@
+{
+  "title": "Abbraccio",
+  "location": "Turin, Italy",
+  "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/abbraccio/preview.jpg",
+  "urls": [
+    {
+      "name": "iPhone",
+      "url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/abbraccio/phone.jpg"
+    }
+  ]
+}

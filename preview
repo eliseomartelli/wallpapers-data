@@ -1,1 +1,0 @@
-convert laptop.jpg -resize 1080x1080 -strip -quality 35 preview.jpg

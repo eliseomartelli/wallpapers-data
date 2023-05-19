@@ -1,12 +1,11 @@
 {
-	"title": "Cinema Massimo",
-	"location": "Turin, Italy",
-	"preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/cinemamassimo/preview.jpg",
-	"urls": [
-		{
-			"name": "iPhone",
-			"url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/cinemamassimo/phone.jpg"
-		}
-	]
+  "title": "Cinema Massimo",
+  "location": "Turin, Italy",
+  "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/cinemamassimo/preview.jpg",
+  "urls": [
+    {
+      "name": "iPhone",
+      "url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/cinemamassimo/phone.jpg"
+    }
+  ]
 }
-
