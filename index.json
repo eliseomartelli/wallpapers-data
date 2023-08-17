@@ -1,5 +1,11 @@
 [
   {
+    "reference": "beach",
+    "title": "Beach",
+    "location": "Torino di Sangro, Italy",
+    "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/beach/preview.jpg"
+  },
+  {
     "reference": "abbraccio",
     "title": "Abbraccio",
     "location": "Turin, Italy",

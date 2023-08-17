@@ -1,0 +1,11 @@
+{
+  "title": "Beach Time",
+  "location": "Torino di Sangro, Italy",
+  "preview": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/beach/preview.jpg",
+  "urls": [
+    {
+      "name": "iPhone",
+      "url": "https://raw.githubusercontent.com/eliseomartelli/wallpapers-data/main/data/beach/phone.jpg"
+    }
+  ]
+}
